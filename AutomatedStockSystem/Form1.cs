@@ -124,7 +124,7 @@ namespace AutomatedStockSystem {
                 randomValue = 0.4 + (0.9 - 0.4) * ran.NextDouble();
             } else {
                 //Revert back to random default values if there isn't anything else.
-                randomValue = 0.95 + (1.05 - 0.95) * ran.NextDouble(); ;
+                randomValue = 0.95 + (1.05 - 0.95) * ran.NextDouble(); ; ;
             }
             return (float)randomValue;
         }

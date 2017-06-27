@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace AutomatedStockSystem {
     class DataLayer {
 
-        MySqlConnection Conn = new MySqlConnection("testhej");
+        MySqlConnection Conn = new MySqlConnection("testhejhej");
         //Private construktor
         private DataLayer() {
         }
