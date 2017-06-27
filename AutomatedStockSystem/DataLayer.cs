@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace AutomatedStockSystem {
     class DataLayer {
 
-        MySqlConnection Conn = new MySqlConnection("Server=mysql32.unoeuro.com;Database=hydracon_dk_db;Uid=hydracon_dk;Pwd=Zone6940;");
+        MySqlConnection Conn = new MySqlConnection("");
         //Private construktor
         private DataLayer() {
         }
