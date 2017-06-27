@@ -132,6 +132,9 @@ DocProject/Help/*.hhk
 DocProject/Help/*.hhp
 DocProject/Help/Html2
 DocProject/Help/html
+# ignore a single file
+DataLayer.cs
+
 
 # Click-Once directory
 publish/
